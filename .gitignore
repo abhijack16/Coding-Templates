@@ -1,0 +1,11 @@
+# VS Code settings
+.vscode/
+
+# Local test files
+input.txt
+output.txt
+
+# Compiled binaries
+SegmentTree
+*.out
+*.o
